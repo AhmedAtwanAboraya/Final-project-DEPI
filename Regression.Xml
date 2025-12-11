@@ -1,0 +1,15 @@
+<suite name="Suite1" verbose="1">
+    <test name="Test">
+
+        <classes>
+            <class name="Test.Currencies"/>
+            <class name="Test.invalid_signup"/>
+            <class name="Test.Login_Test"/>
+            <class name="Test.Newaddress"/>
+            <class name="Test.Payment"/>
+            <class name="Test.Returns"/>
+            <class name="Test.Select_Categories"/>
+            <class name="Test.Show_items"/>
+        </classes>
+    </test>
+    </suite>
